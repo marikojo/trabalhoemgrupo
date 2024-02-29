@@ -1,6 +1,11 @@
 :root
 {
-    
+    --cor-de-fundo: #f5f5f5;
+    --preto: #000;
+    --botao-ativo: #A020F0;
+    --botao-inativo: #FF00FF;
+    --texto-fundo: #87cefa;
+    --cor-borda: #000000;
 }
 
 
