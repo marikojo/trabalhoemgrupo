@@ -7,6 +7,15 @@
     --texto-fundo: #87cefa;
     --cor-borda: #000000;
 }
+.conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    
+}
 
 
 
