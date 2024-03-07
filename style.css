@@ -15,7 +15,12 @@
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
-    
+}
+.titulo-principal{
+    text-align: center;
+    width: 100%;
+    font-size: 32px;
+    color: var(--preto);
 }
 .titulo-principal span {
     color: var(--verde);
