@@ -71,6 +71,11 @@ body
 }
 .botao.ativo
 {
+    background-color: var(--botao-ativo);
+    color: black;
+}
+.abas-textos
+{
     background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
