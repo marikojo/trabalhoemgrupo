@@ -11,7 +11,7 @@
     --botao-inativo: #78ebff;
     --botao-ativo: #3ecef1;
     --botao-inativo: #f55cc2;
-
+    
     --texto-fundo: #b288f5;
     --cor-borda: #000000;
 }
@@ -36,7 +36,7 @@
 .botao
 {
     background-color: var(--botao-inativo);
-    color: var(--branco);
+    color:black;
     display: flex;
     justify-content: center;
     padding: 1em;
