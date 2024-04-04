@@ -28,7 +28,7 @@
     text-align: center;
     width: 100%;
     font-size: 32px;
-    color: var(--preto);
+    color:blue;
 }
 .titulo-principal span {
     color: var(--verde);
