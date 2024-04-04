@@ -7,11 +7,16 @@
     --botao-inativo: #ff4c82;
     --texto-fundo: #ee00da;
 
+    --botao-ativo: #faffbb;
+    --botao-inativo: #78ebff;
+    --botao-ativo: #c3f1b5;
     --botao-ativo: #fd2a58;
     --botao-inativo: #00d9ff;
     --botao-ativo: #00ff80;
     --botao-inativo: #f55cc2;
-    
+
+    --texto-fundo: #7a40d85e;
+
     --texto-fundo: #ff006a;
     --cor-borda: #000000;
 }
